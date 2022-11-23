@@ -24,6 +24,8 @@ Zachary Essoh
 
 ## Deployment
 
+The user also needs to ensure that the dataset files are in the same file as the program, so that the program can properly import it and use it.
+
 To deploy this project one just needs to download the Python file and open it in their preffered python IDE and intall the pyhon dependancies below, then click the run button. 
 
 To deploy this project I had to install and import the Tensorflow and Keras Libraries.
