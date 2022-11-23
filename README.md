@@ -41,6 +41,8 @@ import pathlib
 ## Acknowledgements
 
  [Tensorflow Image Classification Tutorial](https://www.tensorflow.org/tutorials/images/classification)
+ 
+ [Playing Card Dataset Used](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification)
 
 
 
