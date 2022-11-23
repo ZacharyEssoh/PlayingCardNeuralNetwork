@@ -43,9 +43,11 @@ import pathlib
 
 ## Screenshots
 
-In these testing results I used a batch size of 100 and an epoch step size of 25
+In these testing results I used a batch size of 100 and an epoch step size of 25.
 
 ![Training Results](https://user-images.githubusercontent.com/78782929/203472168-5feaa126-4f56-4a36-b1f0-78cd304d4848.png)
+
+These are the first 16 cards of the training dataset.
 
 ![16 Cards](https://user-images.githubusercontent.com/78782929/203472306-3a6ee97f-92fe-4e9c-8b06-95caf4a91f05.png)
 
