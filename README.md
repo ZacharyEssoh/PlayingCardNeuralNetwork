@@ -24,7 +24,9 @@ Zachary Essoh
 
 ## Deployment
 
-To deploy this project I had to install and import the Tensorflow and Keras Libraries
+To deploy this project one just needs to download the Python file and open it in their preffered python IDE and intall the pyhon dependancies below, then click the run button. 
+
+To deploy this project I had to install and import the Tensorflow and Keras Libraries.
 
 ```bash
 import glob
